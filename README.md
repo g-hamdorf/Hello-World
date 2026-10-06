@@ -6,6 +6,17 @@
 
 ---
 
+## Table of Contents
+- Project Description (#Project-Description)
+- What The Program Does (#What-The-Program-Does)
+- Tools & Python Concepts (#Tools-&-Python-Concepts)
+- Files Used (#Files-Used)
+- How To Run The Program (#How-To-Run-The-Program)
+- Example (#Example)
+- What I Learned (#What-I-Learned)
+
+---
+
 ## Project Description
 
 This project is a **loan amortization calculator** created in Python. The program asks the user for three pieces of information:
@@ -15,6 +26,8 @@ This project is a **loan amortization calculator** created in Python. The progra
 - Length of the loan in years
 
 Using these inputs, the program calculates the **constant monthly payment** and creates a month-by-month breakdown of the loan.
+
+---
 
 ### What The Program Does 
 
