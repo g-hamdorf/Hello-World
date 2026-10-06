@@ -1,52 +1,111 @@
-[Loan_Amoritization_Calculator.py](https://github.com/user-attachments/files/33083732/Loan_Amoritization_Calculator.py)# My First Repository
+[Loan_Amoritization_Calculator.py](https://github.com/user-attachments/files/33083732/Loan_Amoritization_Calculator.py) | My First Repository
 
+# 💰 Loan Amortization Calculator
 
-## Table of Contents
+> **A Python program that calculates monthly loan payments and creates an amortization schedule.**
 
-- Project Introduction (#Project-Introduction)
-- Description (#Description)
-- Tools Used (#Tools-Used)
-- Files Used (#Files-Used)
-- How to Run Program (#How-To-Run-Program)
-- Additional Information (#Additioal-Information)
- 
-## Project Introduction
+---
 
-*Loan Amortization Calculator - My First Repository*
+## 📌 Project Description
 
-## Description
+This project is a **loan amortization calculator** created in Python. The program asks the user for three pieces of information:
 
-This Python program calculates a constant monthly loan payment and generates a monthly loan amortization schedule. The user enters the loan amount, annual interest rate, and length of the loan in years. The program then converts the annual interest rate to a monthly rate, calculates the total number of monthly payments, and determines the constant monthly payment. It displays the payment, principal, interest, and remaining balance for each month.
+- Loan amount
+- Annual interest rate
+- Length of the loan in years
 
+Using these inputs, the program calculates the **constant monthly payment** and creates a month-by-month breakdown of the loan.
 
-## Tools Used
+### What The Program Does 
 
-- Python
-- Variables and user input
-- Mathematical calculations
-- While loops
-- Conditional statements
-- F-string formatting
-- Arithmetic operators
-- Exponential calculations
+For each month, the program displays:
 
+| Calculation | Description |
+|---|---|
+| **Payment** | Total monthly payment |
+| **Principal** | Amount applied toward the loan |
+| **Interest** | Interest charged for the month |
+| **Balance** | Remaining loan balance |
 
-## Files Used
+---
+
+## 🛠️ Tools & Python Concepts
+
+This project uses many Python concepts:
+
+- `input()` for collecting user information
+- `float()` for converting user inputs into numerical values
+- Variables for storing loan information
+- Arithmetic operators for calculations
+- Exponents for calculating loan payments
+- `while` loops for generating the monthly schedule
+- **F-string formatting** for organizing the output
+
+---
+
+## 📁 Files Used
 
 [Loan_Amortization_Calculator.py](https://github.com/user-attachments/files/33083802/Loan_Amortization_Calculator.py)
 
 
-## How To Run Program
+---
 
-1. Download or clone this repository.
-2. Open `loan_amortization_calculator` in a Python-compatible program such as Visual Studio Code.
-3. Run the Python file.
-4. Enter the requested loan amount, annual interest rate, and loan length when prompted.
-5. The program will display the monthly payment and a monthly amortization schedule.
+## ▶️ How to Run the Program
 
-The program requires Python to run.
+### Step 1: Open the Python file
 
+Open `loan_amortization_calculator.py` in a Python-compatible (for example: **Visual Studio Code**)
 
-## Additional Information
+### Step 2: Run the program
 
-This project was created as part of a Python programming assignment. The program uses a while loop to calculate and display the loan payment information for each month until the loan is fully amortized.
+Run the Python file
+
+### Step 3: Enter your loan information
+
+The program will ask you to enter:
+
+```text
+Loan amount ($):
+Annual interest rate (%):
+Length of your loan (in years):
+```
+
+### Step 4: View your results
+
+The program will calculate your **monthly payment** and display a complete monthly amortization schedule
+
+---
+
+## 🧮 Example
+
+For example, if a user enters:
+
+```text
+Loan amount: 10000
+Annual interest rate: 5
+Length of loan: 3 years
+```
+
+The program will calculate the monthly payment and then display the payment, principal, interest, and remaining balance for each month.
+
+---
+
+## 💡 What I Learned
+
+This project gave me practice with:
+
+1. Working with **user input**
+2. Converting data types
+3. Performing mathematical calculations in Python
+4. Using a `while` loop to repeat calculations
+5. Formatting numerical output
+6. Organizing Python code into sections
+
+---
+
+### 👩‍💻 Author
+
+**Grace Hamdorf**
+
+*BAIS Student | University of Iowa*
+
