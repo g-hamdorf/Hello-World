@@ -47,7 +47,7 @@ This project uses many Python concepts:
 
 [Loan_Amortization_Calculator.py](https://github.com/user-attachments/files/33083802/Loan_Amortization_Calculator.py)
 
-[Uploading sample_output.txt.rtf…]()
+sample_output.txt
 
 ---
 
@@ -109,4 +109,3 @@ This project gave me practice with:
 **Grace Hamdorf**
 
 *BAIS Student | University of Iowa*
-
