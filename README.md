@@ -1,4 +1,4 @@
-[Loan_Amoritization_Calculator.py](https://github.com/user-attachments/files/33083732/Loan_Amoritization_Calculator.py) | My First Repository
+[sample_output.txt.rtf](https://github.com/user-attachments/files/33084226/sample_output.txt.rtf)[Loan_Amoritization_Calculator.py](https://github.com/user-attachments/files/33083732/Loan_Amoritization_Calculator.py) | My First Repository
 
 # 💰 Loan Amortization Calculator
 
@@ -47,6 +47,7 @@ This project uses many Python concepts:
 
 [Loan_Amortization_Calculator.py](https://github.com/user-attachments/files/33083802/Loan_Amortization_Calculator.py)
 
+[Uploading sample_output.txt.rtf…]()
 
 ---
 
