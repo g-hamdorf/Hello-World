@@ -1,6 +1,6 @@
 [sample_output.txt.rtf](https://github.com/user-attachments/files/33084226/sample_output.txt.rtf)[Loan_Amoritization_Calculator.py](https://github.com/user-attachments/files/33083732/Loan_Amoritization_Calculator.py) | My First Repository
 
-# 💰 Loan Amortization Calculator
+# 💰 Loan Amortization Calculator | My First Repository
 
 > **A Python program that calculates monthly loan payments and creates an amortization schedule.**
 
