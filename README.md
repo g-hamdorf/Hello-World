@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This project is a **loan amortization calculator** created in Python. The program asks the user for three pieces of information:
 
@@ -29,7 +29,7 @@ For each month, the program displays:
 
 ---
 
-## 🛠️ Tools & Python Concepts
+## Tools & Python Concepts
 
 This project uses many Python concepts:
 
@@ -43,7 +43,7 @@ This project uses many Python concepts:
 
 ---
 
-## 📁 Files Used
+## Files Used
 
 [Loan_Amortization_Calculator.py](https://github.com/user-attachments/files/33083802/Loan_Amortization_Calculator.py)
 
@@ -51,7 +51,7 @@ This project uses many Python concepts:
 
 ---
 
-## ▶️ How to Run the Program
+## How to Run the Program
 
 ### Step 1: Open the Python file
 
@@ -77,7 +77,7 @@ The program will calculate your **monthly payment** and display a complete month
 
 ---
 
-## 🧮 Example
+## Example
 
 For example, if a user enters:
 
@@ -91,7 +91,7 @@ The program will calculate the monthly payment and then display the payment, pri
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 This project gave me practice with:
 
@@ -104,7 +104,7 @@ This project gave me practice with:
 
 ---
 
-### 👩‍💻 Author
+### Author
 
 **Grace Hamdorf**
 
