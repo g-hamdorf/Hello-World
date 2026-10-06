@@ -1,30 +1,52 @@
-# My First Repository
+[Loan_Amoritization_Calculator.py](https://github.com/user-attachments/files/33083732/Loan_Amoritization_Calculator.py)# My First Repository
 
 
 ## Table of Contents
 
-- Project Introduction (#Project_Introduction)
+- Project Introduction (#Project-Introduction)
 - Description (#Description)
-- Tools Used (#Tools_Used)
-- Files Used (#Files_Used)
-- How to Run Program (#How_To_Run_Program)
-- Additional Information (#Additional_Information)
+- Tools Used (#Tools-Used)
+- Files Used (#Files-Used)
+- How to Run Program (#How-To-Run-Program)
+- Additional Information (#Additioal-Information)
  
 ## Project Introduction
 
-*Fire Bracket Launch Strategy - My First Repository*
+*Loan Amortization Calculator - My First Repository*
 
 ## Description
 
-As an student marketing consultant for Building Parts LLC, my team and I developed a commercial market launch strategy for FireBracket, a new passive fire safety product designed to slow the spread of fire in commercial buildings. The project focused on increasing awareness and encouraging adoption among 3 key B2B audiences: architects, engineers, and commercial insurance providers.
+This Python program calculates a constant monthly loan payment and generates a monthly loan amortization schedule. The user enters the loan amount, annual interest rate, and length of the loan in years. The program then converts the annual interest rate to a monthly rate, calculates the total number of monthly payments, and determines the constant monthly payment. It displays the payment, principal, interest, and remaining balance for each month.
 
-The project included researching target audience needs and decision-making behaviors, developing audience-specific value propositions, and recommending marketing channels and outreach strategies. I also contributed to the development of professional B2B marketing matrerials designed to communicate FireBracket’s structural protection and risk mitigation benefits.
-
-To inform the strategy, my team and I conducted primary research through interviews with more than 10 architects and insurance brokers. These interviews provided in depth insights into how professionals in each industry evaluate fire safety products, what factors influence their decisions, and the challenges FireBracket may face when entering the market. My team and I used the data to identify opportunities for stronger messaging, refine the value proposition for each audience, and develop marketing recommendations that are grounded in the needs and perspectives of industry professionals.
 
 ## Tools Used
 
-During this project, I utilized a range of data analysis and research tools to support marketing strategy development, including regression analysis, data visualization, descriptive statistics, trend analysis, survey and interview analysis, data interpretation, and segmentation analysis. These tools were used to identify patterns in the data, evaluate relationships between variables, understand target audience behaviors, and translate research findings into actionable marketing recommendations. The project also incorporated Excel and data visualization techniques to organize, analyze, and communicate findings effectively.
+- Python
+- Variables and user input
+- Mathematical calculations
+- While loops
+- Conditional statements
+- F-string formatting
+- Arithmetic operators
+- Exponential calculations
+
 
 ## Files Used
 
+[Loan_Amortization_Calculator.py](https://github.com/user-attachments/files/33083802/Loan_Amortization_Calculator.py)
+
+
+## How To Run Program
+
+1. Download or clone this repository.
+2. Open `loan_amortization_calculator` in a Python-compatible program such as Visual Studio Code.
+3. Run the Python file.
+4. Enter the requested loan amount, annual interest rate, and loan length when prompted.
+5. The program will display the monthly payment and a monthly amortization schedule.
+
+The program requires Python to run.
+
+
+## Additional Information
+
+This project was created as part of a Python programming assignment. The program uses a while loop to calculate and display the loan payment information for each month until the loan is fully amortized.
